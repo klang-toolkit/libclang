@@ -1,2 +1,2 @@
-# ANGLE-binary
-simple repostiory to store ANGLE binaries
+# libclang-binary
+simple repostiory to store libclang binaries
